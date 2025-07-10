@@ -116,7 +116,7 @@ The function:
 * Returns the predicted word or "I don't know" if confidence is low
 
 ---
-https://miro.medium.com/v2/resize:fit:410/format:webp/1*RbFBiWhUqBkb-imi-tp5pg.png
+![xcwe](https://github.com/user-attachments/assets/ca09d127-7392-41dc-8166-c5d4f76afc4b)
 ## Why Use an RNN?
 
 RNNs are designed to process sequences. For this project, where a question is treated as a sequence of words and the answer is a single word, an RNN is a natural fit due to its ability to maintain context through time steps.
